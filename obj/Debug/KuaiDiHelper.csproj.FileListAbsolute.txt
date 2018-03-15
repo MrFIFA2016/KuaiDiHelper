@@ -1,0 +1,9 @@
+C:\Users\13583\Desktop\KuaiDiHelper\bin\KuaiDiHelper.exe.config
+C:\Users\13583\Desktop\KuaiDiHelper\bin\KuaiDiHelper.exe
+C:\Users\13583\Desktop\KuaiDiHelper\bin\KuaiDiHelper.pdb
+C:\Users\13583\Desktop\KuaiDiHelper\obj\Debug\KuaiDiHelper.FormMain.resources
+C:\Users\13583\Desktop\KuaiDiHelper\obj\Debug\KuaiDiHelper.Properties.Resources.resources
+C:\Users\13583\Desktop\KuaiDiHelper\obj\Debug\KuaiDiHelper.csproj.GenerateResource.cache
+C:\Users\13583\Desktop\KuaiDiHelper\obj\Debug\KuaiDiHelper.csproj.CoreCompileInputs.cache
+C:\Users\13583\Desktop\KuaiDiHelper\obj\Debug\KuaiDiHelper.exe
+C:\Users\13583\Desktop\KuaiDiHelper\obj\Debug\KuaiDiHelper.pdb
